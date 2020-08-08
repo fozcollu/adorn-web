@@ -1,0 +1,14 @@
+// Features tiles (core/sections/_portfolio.scss) ---------
+$portfolio--padding-t__mobile: 32px; // features tiles, top padding (mobile)
+$portfolio--padding-b__mobile: null; // features tiles, bottom padding (mobile)
+$portfolio--padding-t__desktop: null; // features tiles, top padding (desktop)
+$portfolio--padding-b__desktop: null; // features tiles, bottom padding (desktop)
+$portfolio-header--padding__mobile: 0; // features tiles header, bottom padding (mobile)
+$portfolio-header--padding__desktop: 0; // features tiles header, bottom padding (desktop)
+$portfolio-items--padding__mobile: 32px; // padding between features tiles (mobile)
+$portfolio-items--padding__desktop: 64px; // padding between features tiles (desktop)
+$portfolio-item--width: 317px; // features tiles item, width
+$portfolio-item--inner-padding-v: 0; // features tiles item, inner top and bottom padding (it inherits $tiles-item--inner-padding-v unless you replace null with a new value)
+$portfolio-item--inner-padding-h: 0; // features tiles item, inner left and right padding (it inherits $tiles-item--inner-padding-h unless you replace null with a new value)
+$portfolio-last-items--bmargin__mobile: 20px; // last item margin bottom
+$portfolio-last-items--bmargin__desktop: 20px; // last item margin bottom
